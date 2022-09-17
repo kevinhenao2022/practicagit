@@ -1,1 +1,1 @@
-print("se realiza un menu")
+print("se realiza unA PRACTICA")
